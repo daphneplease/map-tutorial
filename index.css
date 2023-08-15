@@ -1,0 +1,43 @@
+body, html {
+margin: 0;
+padding: 0;
+border: 0;
+font-family: sans-serif;
+}
+
+
+#map {
+height: 100%;
+width: 100%;
+position: absolute;
+}
+
+
+#title-container {
+position: absolute;
+background: rgba(194, 240, 28, 0.75);
+border-radius: 100px;
+margin: 20px;
+padding: 1px;
+width: 200px;
+}
+
+
+h1 {
+margin: 0;
+}
+
+
+#title-container h1 {
+color: rgb(68, 0, 255);
+}
+
+
+#title-container p {
+color: #ea0cf6;
+}
+
+
+a {
+color: #ff9500;
+}
